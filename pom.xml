@@ -15,7 +15,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
 		<guice.version>3.0</guice.version>
-		<junit.version>4.10</junit.version>
+		<junit.version>4.13.1</junit.version>
 	</properties>
 
 	<repositories>
